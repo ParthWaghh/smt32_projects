@@ -31,8 +31,8 @@ A structured collection of embedded systems mini-projects built on the **STM32F1
 | 02 | [ADC Sensor Interfacing](projects/02-adc-sensor-interfacing/) | ADC, voltage scaling, DMA             | Completed |
 | 03 | [PWM LED Dimmer](projects/03-pwm-led-dimmer/)               | Timers, PWM, duty-cycle control       | Completed |
 | 04 | [UART Sensor Monitor](projects/04-uart-sensor-monitor/)     | UART, serial debugging, telemetry     | Completed |
-| 05 | [Interrupt-Driven System](projects/05-interrupt-driven-system/) | EXTI, NVIC, state machines        | Completed |
-| 06 | [CAN Communication](projects/06-can-communication/)         | bxCAN, CAN frames, filtering         | Completed |
+| 05 | [Interrupt-Driven System](projects/05-interrupt-driven-system/) | EXTI, NVIC, state machines        | Ongoing |
+| 06 | [CAN Communication](projects/06-can-communication/)         | bxCAN, CAN frames, filtering         | Ongoing |
 
 
 Each project is **self-contained**: independent source tree, schematic, test plan, and results. When STM32CubeIDE project files (`.ioc`, startup, linker script, HAL drivers) are generated, they live inside the respective project directory.
