@@ -34,26 +34,6 @@ A structured collection of embedded systems mini-projects built on the **STM32F1
 | 05 | [Interrupt-Driven System](projects/05-interrupt-driven-system/) | EXTI, NVIC, state machines        | Completed |
 | 06 | [CAN Communication](projects/06-can-communication/)         | bxCAN, CAN frames, filtering         | Completed |
 
-## Repository Layout
-
-```
-stm32-embedded-systems-lab/
-├── README.md               ← You are here
-├── docs/                   ← Cross-project documentation
-│   ├── roadmap.md
-│   ├── development-setup.md
-│   └── coding-guidelines.md
-├── projects/
-│   ├── 01-gpio-led-control/
-│   │   ├── src/            ← Firmware source (C modules)
-│   │   ├── kicad/          ← KiCad schematic + screenshots
-│   │   ├── tests/          ← Test plan and verification
-│   │   └── results/        ← Observed measurements
-│   ├── 02-adc-sensor-interfacing/
-│   │   └── ...
-│   └── ...
-└── tools/                  ← Helper scripts, log parsers
-```
 
 Each project is **self-contained**: independent source tree, schematic, test plan, and results. When STM32CubeIDE project files (`.ioc`, startup, linker script, HAL drivers) are generated, they live inside the respective project directory.
 
