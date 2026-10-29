@@ -1,0 +1,13 @@
+Timestamp (s)   Bus  Type  ID (Hex)  DLC  Data Payload (Hex)       Interpretation
+---------------------------------------------------------------------------------------------------------
+0.100124        CAN1 Rx    0x100     7    58 0B 8A 02 55 28 01     RPM:2904, Spd:65.0 km/h, Temp:85C, Thr:40%, State:OK
+0.200130        CAN1 Rx    0x100     7 BC 0B 94 02 55 2A 01     RPM:3004, Spd:66.0 km/h, Temp:85C, Thr:42%, State:OK
+0.300128        CAN1 Rx    0x100     7    20 0C 9E 02 56 2D 01     RPM:3104, Spd:67.0 km/h, Temp:86C, Thr:45%, State:OK
+0.400135        CAN1 Rx    0x100     7    84 0C A8 02 56 30 01     RPM:3204, Spd:68.0 km/h, Temp:86C, Thr:48%, State:OK
+0.500141        CAN1 Rx    0x100     7    E8 0C B2 02 56 33 01     RPM:3304, Spd:69.0 km/h, Temp:86C, Thr:51%, State:OK
+0.600129        CAN1 Rx    0x100     7    4C 0D BC 02 57 37 01     RPM:3404, Spd:70.0 km/h, Temp:87C, Thr:55%, State:OK
+0.700138        CAN1 Rx    0x100     7    B0 0D C6 02 57 3B 01     RPM:3504, Spd:71.0 km/h, Temp:87C, Thr:59%, State:OK
+0.800142        CAN1 Rx    0x100     7    14 0E D0 02 57 3F 01     RPM:3604, Spd:72.0 km/h, Temp:87C, Thr:63%, State:OK
+0.900136        CAN1 Rx    0x100     7    78 0E DA 02 58 42 01     RPM:3704, Spd:73.0 km/h, Temp:88C, Thr:66%, State:OK
+1.000145        CAN1 Rx    0x100     7    DC 0E E4 02 58 45 01     RPM:3804, Spd:74.0 km/h, Temp:88C, Thr:69%, State:OK
+--- End of CAN bus trace. Bus load: ~1.2% @ 500 kbps, Frame errors: 0, Overruns: 0 ---

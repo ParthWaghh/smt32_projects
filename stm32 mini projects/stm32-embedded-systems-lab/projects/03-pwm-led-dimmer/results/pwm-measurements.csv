@@ -1,0 +1,7 @@
+pot_adc_raw,duty_ccr,duty_percent,measured_freq_hz,notes
+0,0,0.0,0,output stays low
+512,125,12.5,1000,
+1024,250,25.0,1000,
+2048,500,50.0,1000,
+3072,750,75.0,1000,
+4095,1000,100.0,0,output stays high
