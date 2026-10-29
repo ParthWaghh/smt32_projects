@@ -75,7 +75,3 @@ Project status is tracked in the table above. Each project's README is updated w
 **Parth Wagh**
 
 Electronics and Telecommunication Engineering · Embedded Systems · Firmware Development
-
----
-
-*This repository is maintained as a learning portfolio. Contributions, suggestions, and code reviews are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).*
